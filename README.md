@@ -2,7 +2,7 @@
 
 Controlador de luces usando el modulo ESP8266
 
-#Usando el modulo ESP8266 conjunto con Adrafruit e IFTTT
+# Usando el modulo ESP8266 conjunto con Adrafruit e IFTTT
 
 - Conexion wifi
 - Programacion en la placa wemos d1 ESP8266
